@@ -1,5 +1,4 @@
-# rke-node-aws-s2
-Roorkee NodeJS API code - hosted on AWS S2
+# Roorkee.org NodeJS API code for AWS EC2
 
 ## Run
 - Clone
